@@ -178,7 +178,7 @@ class _MenuPageState extends State<MenuPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Activity 4 - Campus Café'),
+        title: const Text('Activity 4 - $studentName'),
         centerTitle: true,
         elevation: 2,
         actions: [

@@ -35,7 +35,7 @@ class WeatherPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Activity 3 - Weather Dashboard'),
+        title: const Text('Activity 3 - $studentName'),
         centerTitle: true,
         elevation: 2,
         actions: [

@@ -24,7 +24,7 @@ class ProfileApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Activity 1 - Student Profile'),
+          title: const Text('Activity 1 - $studentName'),
           centerTitle: true,
           elevation: 2,
         ),

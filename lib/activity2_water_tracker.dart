@@ -85,7 +85,7 @@ class _WaterTrackerPageState extends State<WaterTrackerPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Activity 2 - Water Tracker'),
+        title: const Text('Activity 2 - $studentName'),
         centerTitle: true,
         elevation: 2,
         actions: [

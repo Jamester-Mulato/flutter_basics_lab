@@ -143,7 +143,7 @@ class _SettingsPageState extends State<SettingsPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Activity 5 - Theme & Components'),
+        title: const Text('Activity 5 - $studentName'),
         actions: [
           IconButton(
             tooltip: 'Toggle Theme',
