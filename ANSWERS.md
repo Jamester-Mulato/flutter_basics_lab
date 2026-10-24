@@ -7,8 +7,7 @@
 ---
 
 ## 1. GitHub Repository Link
-- **Repository URL:** `https://github.com/YOUR_USERNAME/flutter_basics_lab.git`  
-  *(Replace `YOUR_USERNAME` with your GitHub username once pushed)*
+- **Repository URL:** `https://github.com/jamester-mulato/flutter_basics_lab.git`
 
 ---
 
